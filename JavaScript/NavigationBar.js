@@ -1,7 +1,7 @@
 const Options = [
     {name : "Home", href:"../index.html"},
-    {name : "Display", href:""},
-    {name : "Cart", href:""}
+    {name : "Shopping", href:"../BuyPage/BuyPage.html"},
+    {name : "Cart", href:"../ShoppingCart/Cart.html"}
 ]
 
 export function CreateNavigationBar(PageName){
